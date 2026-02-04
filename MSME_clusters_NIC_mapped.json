@@ -1,0 +1,3322 @@
+[
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "ANANTHAPURAMU",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "28_502"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "ANANTHAPURAMU",
+    "Product": "Jeans Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "28_502"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "CHITTOOR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "28_503"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "CHITTOOR",
+    "Product": "Brass Utensils",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "28_503"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Graphite Crucibles",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Coir & Coir Products",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Aluminium Utensils",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Refractory Products",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "WEST GODAVARI",
+    "Product": "Refractory Products",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_523"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "GUNTUR",
+    "Product": "Lime Calcination",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_506"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "GUNTUR",
+    "Product": "Wooden Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "28_506"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Ceilling Fan",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Leather Tanning",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Hand Pumpsets",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "HYDERABAD",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "36_507"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "KARIMNAGAR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "36_508"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KRISHNA",
+    "Product": "Gold Plating & Imitation Jewellery",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "28_510"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KRISHNA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "28_510"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KRISHNA",
+    "Product": "Steel Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "28_510"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KURNOOL",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "28_511"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KURNOOL",
+    "Product": "Artificial Diamonds",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "28_511"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KURNOOL",
+    "Product": "Polished Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_511"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "KURNOOL",
+    "Product": "Polished Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_511"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "PRAKASAM",
+    "Product": "Stone Slate",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "28_517"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "RANGA REDDY",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "36_518"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "SRIKAKULAM",
+    "Product": "Cashew Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "28_519"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "VISAKHAPATNAM",
+    "Product": "Marine Foods",
+    "NIC.Code": 102,
+    "NIC.Description": "Processing and preser ving of ﬁsh, crustaceans, and mollusks Group",
+    "DISTRICT_ID": "28_520"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "EAST GODAVARI",
+    "Product": "Marine Foods",
+    "NIC.Code": 102,
+    "NIC.Description": "Processing and preser ving of ﬁsh, crustaceans, and mollusks Group",
+    "DISTRICT_ID": "28_505"
+  },
+  {
+    "state_key": "TELANGANA",
+    "dist_key": "WARANGAL",
+    "Product": "Brassware",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "36_522"
+  },
+  {
+    "state_key": "ANDHRA PRADESH",
+    "dist_key": "WEST GODAVARI",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "28_523"
+  },
+  {
+    "state_key": "BIHAR",
+    "dist_key": "BEGUSARAI",
+    "Product": "Engineering & Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "10_191"
+  },
+  {
+    "state_key": "BIHAR",
+    "dist_key": "MUZAFFARPUR",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "10_208"
+  },
+  {
+    "state_key": "BIHAR",
+    "dist_key": "PATNA",
+    "Product": "Brass and German Silver",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "10_212"
+  },
+  {
+    "state_key": "CHHATTISGARH",
+    "dist_key": "RAIPUR",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "22_387"
+  },
+  {
+    "state_key": "CHHATTISGARH",
+    "dist_key": "RAJNANDGAON",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "22_388"
+  },
+  {
+    "state_key": "CHHATTISGARH",
+    "dist_key": "DURG",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "22_378"
+  },
+  {
+    "state_key": "CHHATTISGARH",
+    "dist_key": "RAIPUR",
+    "Product": "Castings & Metal Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "22_387"
+  },
+  {
+    "state_key": "CHHATTISGARH",
+    "dist_key": "DURG",
+    "Product": "Castings & Metal Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "22_378"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH WEST",
+    "Product": "Stainless Steel Utensils & Cutlery",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "7_82"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Electrical Engineering Equipment",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Electrical Engineering Equipment",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "7_80"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "EAST",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_78"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Paper Products",
+    "NIC.Code": 17,
+    "NIC.Description": "Manufacture of paper and paper products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Paper Products",
+    "NIC.Code": 17,
+    "NIC.Description": "Manufacture of paper and paper products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Plastic Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Plastic Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Rubber Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Rubber Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH WEST",
+    "Product": "Rubber Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "7_82"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH EAST",
+    "Product": "Wire Drawing",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "7_81"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Metal Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH WEST",
+    "Product": "Metal Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "7_82"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH EAST",
+    "Product": "Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "7_81"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "WEST",
+    "Product": "Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "7_85"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH WEST",
+    "Product": "Electro Plating",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "7_82"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH EAST",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "7_81"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH WEST",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "7_82"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "EAST",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "7_78"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH EAST",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "7_81"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "NORTH EAST",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "7_81"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "DELHI",
+    "dist_key": "SOUTH",
+    "Product": "Sanitary Fittings",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "7_83"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Pharmaceuticals",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Dyes & Intermediates",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Moulded Plastic Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Textile Machinery Parts",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Diamond Processing",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Castings & Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Steel Utensils",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Wood Product & Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Paper Products",
+    "NIC.Code": 17,
+    "NIC.Description": "Manufacture of paper and paper products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Leather Footware",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Washing Powder & Soap",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Marble Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Power Driven Pumps",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AHMEDABAD",
+    "Product": "Auto Parts",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "24_438"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AMRELI",
+    "Product": "Weights & Measures",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "24_439"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Oil Mills Machinery",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery for food, beverage and tobacco processing",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "JUNAGADH",
+    "Product": "Oil Mills Machinery",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery for food, beverage and tobacco processing",
+    "DISTRICT_ID": "24_448"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "AMRELI",
+    "Product": "Oil Mills Machinery",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery for food, beverage and tobacco processing",
+    "DISTRICT_ID": "24_439"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "BHAVNAGAR",
+    "Product": "Ship Breaking",
+    "NIC.Code": 30,
+    "NIC.Description": "Manufacture of other transport equipment",
+    "DISTRICT_ID": "24_443"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "BHAVNAGAR",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "24_443"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "BHAVNAGAR",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "24_443"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "BHAVNAGAR",
+    "Product": "Plastic Processing",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "24_443"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "BHAVNAGAR",
+    "Product": "Diamond Processing",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "24_443"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "GANDHINAGAR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_446"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "JAMNAGAR",
+    "Product": "Brass Parts",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "24_447"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "JAMNAGAR",
+    "Product": "Wood Product & Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "24_447"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "MAHESANA",
+    "Product": "Cotton Cloth Weaving",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_451"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Textile Printing",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Flooring Tiles(Clay)",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Wall Clocks",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Diesel Engines",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Electric Motors",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Castings & Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "RAJKOT",
+    "Product": "Diamond Processing",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "24_457"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURAT",
+    "Product": "Diamond Processing",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "24_459"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURAT",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_459"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURAT",
+    "Product": "Wood Product & Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "24_459"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURAT",
+    "Product": "Textile Machinery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "24_459"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURENDRANAGAR",
+    "Product": "Ceramics",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "24_460"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "SURENDRANAGAR",
+    "Product": "Sanitary Fittings",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "24_460"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VADODARA",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "24_461"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VADODARA",
+    "Product": "Plastic Processing",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "24_461"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VADODARA",
+    "Product": "Wood Product & Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "24_461"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VALSAD",
+    "Product": "Dyes & Intermediates",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "24_462"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VALSAD",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "24_462"
+  },
+  {
+    "state_key": "GUJARAT",
+    "dist_key": "VALSAD",
+    "Product": "Pharmaceuticals - Bulk",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "24_462"
+  },
+  {
+    "state_key": "GOA",
+    "dist_key": "SOUTH GOA",
+    "Product": "Pharmaceutical",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "30_552"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "AMBALA",
+    "Product": "Mixies & Grinders",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "6_58"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "AMBALA",
+    "Product": "Scientific Instruments",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "6_58"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "BHIWANI",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "6_59"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "BHIWANI",
+    "Product": "Stone Crushing",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "6_59"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "FARIDABAD",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "6_60"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "FARIDABAD",
+    "Product": "Engineering Cluster",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "6_60"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "FARIDABAD",
+    "Product": "Stone Crushing",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "6_60"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "GURUGRAM",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "6_62"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "GURUGRAM",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "6_62"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "GURUGRAM",
+    "Product": "Electrical Engineering Equipment",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "6_62"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "GURUGRAM",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "6_62"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "GURUGRAM",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "6_62"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "KAITHAL",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "6_66"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "KARNAL",
+    "Product": "Agricultural Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "6_67"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "KARNAL",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "6_67"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "KURUKSHETRA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "6_68"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANIPAT",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "6_71"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANCHKULA",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "6_70"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANCHKULA",
+    "Product": "Stone Crushing",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "6_70"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANIPAT",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "6_71"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANIPAT",
+    "Product": "Shoddy Yarn",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "6_71"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANIPAT",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "6_71"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "PANIPAT",
+    "Product": "Cotton Spinning",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "6_71"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "ROHTAK",
+    "Product": "Nuts/ Bolts",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fasteners, metal chains, springs and wire products",
+    "DISTRICT_ID": "6_73"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "YAMUNANAGAR",
+    "Product": "Plywood/Board/Blackboard",
+    "NIC.Code": 16,
+    "NIC.Description": "Manufacture of wood and products of wood and cork, except furniture; manufactur e of articles of straw and plaiting materials",
+    "DISTRICT_ID": "6_76"
+  },
+  {
+    "state_key": "HARYANA",
+    "dist_key": "YAMUNANAGAR",
+    "Product": "Utensils",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "6_76"
+  },
+  {
+    "state_key": "HIMACHAL PRADESH",
+    "dist_key": "SIRMAUR",
+    "Product": "Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "2_24"
+  },
+  {
+    "state_key": "HIMACHAL PRADESH",
+    "dist_key": "KULLU",
+    "Product": "Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "2_20"
+  },
+  {
+    "state_key": "HIMACHAL PRADESH",
+    "dist_key": "KANGRA",
+    "Product": "Stone Crushing",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "2_18"
+  },
+  {
+    "state_key": "HIMACHAL PRADESH",
+    "dist_key": "SOLAN",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "2_25"
+  },
+  {
+    "state_key": "JAMMU AND KASHMIR",
+    "dist_key": "ANANTNAG",
+    "Product": "Cricket Bat",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "1_1"
+  },
+  {
+    "state_key": "JAMMU AND KASHMIR",
+    "dist_key": "JAMMU",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "1_5"
+  },
+  {
+    "state_key": "JAMMU AND KASHMIR",
+    "dist_key": "JAMMU",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "1_5"
+  },
+  {
+    "state_key": "JAMMU AND KASHMIR",
+    "dist_key": "JAMMU",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "1_5"
+  },
+  {
+    "state_key": "JAMMU AND KASHMIR",
+    "dist_key": "SRINAGAR",
+    "Product": "Timber Joinery/ Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "1_13"
+  },
+  {
+    "state_key": "JHARKHAND",
+    "dist_key": "SARAIKELA KHARSAWAN",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "20_341"
+  },
+  {
+    "state_key": "JHARKHAND",
+    "dist_key": "EAST SINGHBUM",
+    "Product": "Engineering & Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "20_327"
+  },
+  {
+    "state_key": "JHARKHAND",
+    "dist_key": "BOKARO",
+    "Product": "Engineering & Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "20_322"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Light Engineering",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BENGALURU URBAN",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "29_525"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BELAGAVI",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "29_527"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BELAGAVI",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "29_527"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "BALLARI",
+    "Product": "Jeans Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "29_528"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "VIJAYAPURA",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "29_530"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "DHARWAD",
+    "Product": "Agriculture Implements and Tractor Trailer",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "29_536"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "GADAG",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "29_537"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "KALABURAGI",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "29_538"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "HASSAN",
+    "Product": "Coir & Coir Products",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "29_539"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "MYSURU",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "29_545"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "MYSURU",
+    "Product": "Silk",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "29_545"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "RAICHUR",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "29_546"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "SHIVAMOGGA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "29_547"
+  },
+  {
+    "state_key": "KARNATAKA",
+    "dist_key": "DAKSHINA KANNADA",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "29_534"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "ALAPPUZHA",
+    "Product": "Coir & Coir Products",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_554"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "ERNAKULAM",
+    "Product": "Rubber Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "32_555"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "ERNAKULAM",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_555"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "ERNAKULAM",
+    "Product": "Sea Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "32_555"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "KANNUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_557"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "KOLLAM",
+    "Product": "Coir & Coir Products",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_559"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "KOTTAYAM",
+    "Product": "Rubber Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "32_560"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "MALAPPURAM",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_562"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "PALAKKAD",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "32_563"
+  },
+  {
+    "state_key": "KERALA",
+    "dist_key": "FAIZLURE",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "NA_NA"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "AHILYANAGAR",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "27_466"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "AKOLA",
+    "Product": "Oil Mills (Cottonseed)",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "27_467"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "AKOLA",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_467"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "CHHATRAPATI SAMBHAJINAGAR",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "27_469"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "CHHATRAPATI SAMBHAJINAGAR",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "27_469"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "BHANDARA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_471"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "CHANDRAPUR",
+    "Product": "Roofing Tiles",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "27_473"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "CHANDRAPUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_473"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "DHULE",
+    "Product": "Chilly Powder",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_474"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "GADCHIROLI",
+    "Product": "Castings & Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "27_475"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "GADCHIROLI",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_475"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "GONDIA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_476"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "JALGAON",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_478"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "JALGAON",
+    "Product": "Agriculture Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "27_478"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "JALNA",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "27_479"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "KOLHAPUR",
+    "Product": "Diesel Engines",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "27_480"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "KOLHAPUR",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "27_480"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "KOLHAPUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_480"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Pharmaceutical - Basic Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Toys (Plastic)",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "MUMBAI",
+    "Product": "Plastic Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "27_482"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Engineering & Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Steel Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NAGPUR",
+    "Product": "Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_484"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NANDED",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_485"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NASHIK",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_487"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "NASHIK",
+    "Product": "Steel Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "27_487"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "PUNE",
+    "Product": "Fibre Glass",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "27_490"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "RATNAGIRI",
+    "Product": "Canned & Processed Fish",
+    "NIC.Code": 102,
+    "NIC.Description": "Processing and preser ving of ﬁsh, crustaceans, and mollusks Group",
+    "DISTRICT_ID": "27_492"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SANGLI",
+    "Product": "M S Rods",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "27_493"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SANGLI",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_493"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SATARA",
+    "Product": "Leather Tanning",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "27_494"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SOLAPUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_496"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SINDHUDURG",
+    "Product": "Cashew Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_495"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "SINDHUDURG",
+    "Product": "Copper Coated Wires",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "27_495"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "THANE",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "27_497"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "THANE",
+    "Product": "Confectionery",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_497"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "THANE",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "27_497"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "THANE",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "27_497"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "THANE",
+    "Product": "Sea Food",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "27_497"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "WARDHA",
+    "Product": "Solvent Oil",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "27_498"
+  },
+  {
+    "state_key": "MAHARASHTRA",
+    "dist_key": "YAVATMAL",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "27_500"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "BHOPAL",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "23_396"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "DEWAS",
+    "Product": "Electrical Goods",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "23_402"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "KHANDWA EAST NIMAR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "23_405"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "INDORE",
+    "Product": "Pharmaceuticals - Bulk Drugs",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "23_410"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "INDORE",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "23_410"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "INDORE",
+    "Product": "Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "23_410"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "INDORE",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "23_410"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "JABALPUR",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "23_411"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "JABALPUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "23_411"
+  },
+  {
+    "state_key": "MADHYA PRADESH",
+    "dist_key": "UJJAIN",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "23_435"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "BALANGIR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_345"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "BALASORE",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_346"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "BALASORE",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "21_346"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "CUTTACK",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_350"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "CUTTACK",
+    "Product": "Chemicals & Pharmaceuticals",
+    "NIC.Code": 21,
+    "NIC.Description": "Manufacture of pharmaceuticals, medicinal chemicals, and botanical products",
+    "DISTRICT_ID": "21_350"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "CUTTACK",
+    "Product": "Engineering & Fabrication",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "21_350"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "CUTTACK",
+    "Product": "Spices",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "21_350"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "DHENKANAL",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "21_352"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "GANJAM",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "21_354"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "GANJAM",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_354"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "KORAPUT",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_363"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "PURI",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_369"
+  },
+  {
+    "state_key": "ODISHA",
+    "dist_key": "SAMBALPUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "21_371"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "AMRITSAR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "3_27"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "AMRITSAR",
+    "Product": "Shoddy Yarn",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "3_27"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "AMRITSAR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "3_27"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "FATEHGARH SAHIB",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "3_30"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "GURDASPUR",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "3_32"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "GURDASPUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "3_32"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "GURDASPUR",
+    "Product": "Castings & Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "3_32"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Sports Goods",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Agricultural Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Rubber Goods",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Wooden Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Leather Tanning",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Leather Footwear",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "JALANDHAR",
+    "Product": "Surgical Instruments",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "3_34"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "KAPURTHALA",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "3_35"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "KAPURTHALA",
+    "Product": "Diesel Engines",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "3_35"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Auto Components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Bicycle Parts",
+    "NIC.Code": 30,
+    "NIC.Description": "Manufacture of parts and accessories for bicycles",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Sewing M/C Components",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Industrial Fastners",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "LUDHIANA",
+    "Product": "Electroplating",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_36"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "MOGA",
+    "Product": "Wheat Threshers",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "3_38"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "PATIALA",
+    "Product": "Agricultural Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "3_41"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "PATIALA",
+    "Product": "Cutting Tools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "3_41"
+  },
+  {
+    "state_key": "PUNJAB",
+    "dist_key": "SANGRUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "3_43"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "ALWAR",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "8_87"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "SAWAI MADHOPUR",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "8_113"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "BHARATPUR",
+    "Product": "Oil Mills",
+    "NIC.Code": 104,
+    "NIC.Description": "Manufacture of vegetable and animal oils and fats Group",
+    "DISTRICT_ID": "8_91"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "AJMER",
+    "Product": "Marbe Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_86"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "AJMER",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "8_86"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "ALWAR",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "8_87"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "BIKANER",
+    "Product": "Papad Mangodi, Namkin",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "8_93"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "BIKANER",
+    "Product": "Plaster of Paris",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_93"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "DAUSA",
+    "Product": "Sand Stone",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_97"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "GANGANAGAR",
+    "Product": "Food Processing",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "8_100"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Gems & Jewellery",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Ball Bearing",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of bearings, gears, gearing and driving elements",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Electrical Engineering Equipment",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Food Products",
+    "NIC.Code": 107,
+    "NIC.Description": "Manufacture of other food products Group",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Lime",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JAIPUR",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "8_102"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "JHALAWAR",
+    "Product": "Marble Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_105"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "NAGAUR",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "8_110"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "SIKAR",
+    "Product": "Wooden Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "8_114"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "SIROHI",
+    "Product": "Marble Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_115"
+  },
+  {
+    "state_key": "RAJASTHAN",
+    "dist_key": "UDAIPUR",
+    "Product": "Marble Slabs",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "8_117"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "CHENNAI",
+    "Product": "Auto components",
+    "NIC.Code": 29,
+    "NIC.Description": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "DISTRICT_ID": "33_568"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "CHENNAI",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "33_568"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "CHENNAI",
+    "Product": "Electroplating",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "33_568"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Diesel Engines",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Agricultural Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Machine Tools",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Castings & Forging",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "COIMBATORE",
+    "Product": "Wet Grinding Machines",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_569"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "ERODE",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "33_573"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "KARUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "33_576"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "MADURAI",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "33_578"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "MADURAI",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "33_578"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "MADURAI",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "33_578"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "NAMAKKAL",
+    "Product": "Rigs",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_580"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "SALEM",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "33_584"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "SALEM",
+    "Product": "Starch & Sago",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "33_584"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "THANJAVUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "33_586"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "TIRUCHIRAPPALLI",
+    "Product": "Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "33_591"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "TIRUCHIRAPPALLI",
+    "Product": "Artificial Diamonds",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "33_591"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "THOOTHUKKUDI",
+    "Product": "Safety Matches",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "33_594"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VELLORE",
+    "Product": "Leather Tanning",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "33_595"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VIRUDHUNAGAR",
+    "Product": "Cotton Mills(Gauge Cloth)",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "33_597"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VIRUDHUNAGAR",
+    "Product": "Tin Container",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "33_597"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VIRUDHUNAGAR",
+    "Product": "Printing",
+    "NIC.Code": 18,
+    "NIC.Description": "Printing and reproduction of recorded media",
+    "DISTRICT_ID": "33_597"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VIRUDHUNAGAR",
+    "Product": "Safety Matches & Fire Works",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "33_597"
+  },
+  {
+    "state_key": "TAMIL NADU",
+    "dist_key": "VIRUDHUNAGAR",
+    "Product": "Toilet Soa",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "33_597"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "AGRA",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "9_118"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "AGRA",
+    "Product": "Leather Footwear",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "9_118"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "AGRA",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "9_118"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "ALIGARH",
+    "Product": "Brass & Gunmetal Statues",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "9_119"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "ALIGARH",
+    "Product": "Locks",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "9_119"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "ALIGARH",
+    "Product": "Building Hardware",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "9_119"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "PRAYAGRAJ",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_120"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "PRAYAGRAJ",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "9_120"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "BANDA",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_128"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "BULANDSHAHR",
+    "Product": "Ceramics",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "9_134"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "FIROZABAD",
+    "Product": "Glass Products",
+    "NIC.Code": 23,
+    "NIC.Description": "Manufacture of other non-metallic mineral products",
+    "DISTRICT_ID": "9_143"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Electronic Goods",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Toys",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Electrical Engineering Equipment",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GAUTAM BUDDHA NAGAR",
+    "Product": "Plastic Products",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "9_144"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GHAZIABAD",
+    "Product": "Chemicals",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of chemicals and chemical products",
+    "DISTRICT_ID": "9_145"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GHAZIABAD",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "9_145"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GHAZIABAD",
+    "Product": "Packaging Material",
+    "NIC.Code": 22,
+    "NIC.Description": "Manufacture of rubber and plastics products",
+    "DISTRICT_ID": "9_145"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "GORAKHPUR",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_148"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "HATHRAS",
+    "Product": "Sheetwork (Globe, Lamp)",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "9_163"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "JHANSI",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_153"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "KANNAUJ",
+    "Product": "Perfumery & Essential Oils",
+    "NIC.Code": 20,
+    "NIC.Description": "Manufacture of soap, cleaning preparations, perfumes and toilet preparations",
+    "DISTRICT_ID": "9_155"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "KANPUR DEHAT",
+    "Product": "Saddlery",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "9_156"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "KANPUR DEHAT",
+    "Product": "Cotton Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_156"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "KANPUR DEHAT",
+    "Product": "Leather Products",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "9_156"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "MEERUT",
+    "Product": "Sports Goods",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "9_169"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "MORADABAD",
+    "Product": "Brassware",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "9_171"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "MUZAFFARNAGAR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "9_172"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "SAHARANPUR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "9_177"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "SAHARANPUR",
+    "Product": "Woodwork",
+    "NIC.Code": 16,
+    "NIC.Description": "Manufacture of wood and products of wood and cork, except furniture; manufactur e of articles of straw and plaiting materials",
+    "DISTRICT_ID": "9_177"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "VARANASI",
+    "Product": "Sheetwork (Globe, Lamp)",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "9_187"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "VARANASI",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "9_187"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "VARANASI",
+    "Product": "Agricultural Implements",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "9_187"
+  },
+  {
+    "state_key": "UTTAR PRADESH",
+    "dist_key": "VARANASI",
+    "Product": "Electric Fan",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "9_187"
+  },
+  {
+    "state_key": "UTTARAKHAND",
+    "dist_key": "DEHRADUN",
+    "Product": "Miniature Vacuum Bulb",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "5_49"
+  },
+  {
+    "state_key": "UTTARAKHAND",
+    "dist_key": "HARIDWAR",
+    "Product": "Survey Instruments",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "5_50"
+  },
+  {
+    "state_key": "UTTARAKHAND",
+    "dist_key": "UDHAM SINGH NAGAR",
+    "Product": "Rice Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "5_56"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "BANKURA",
+    "Product": "Fishing Hooks(Informationawaited)",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "19_305"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "HOWRAH",
+    "Product": "Foundry",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "19_313"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "HOWRAH",
+    "Product": "Locks",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "19_313"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "HOWRAH",
+    "Product": "Steel Re-rolling",
+    "NIC.Code": 24,
+    "NIC.Description": "Manufacture of basic metals",
+    "DISTRICT_ID": "19_313"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "HOWRAH",
+    "Product": "Artificial & Real Jewellery",
+    "NIC.Code": 32,
+    "NIC.Description": "Other manufacturing",
+    "DISTRICT_ID": "19_313"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "COOCH BEHAR",
+    "Product": "Sitalpati/ Furniture",
+    "NIC.Code": 31,
+    "NIC.Description": "Manufacture of furniture",
+    "DISTRICT_ID": "19_308"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Electric Fans",
+    "NIC.Code": 27,
+    "NIC.Description": "Manufacture of electrical equipment",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Hosiery",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Readymade Garments",
+    "NIC.Code": 14,
+    "NIC.Description": "Manufacture of apparel",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Leather Goods",
+    "NIC.Code": 15,
+    "NIC.Description": "Manufacture of leather and related products",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Dal Mills",
+    "NIC.Code": 106,
+    "NIC.Description": "Manufacture of grain mill products, starches, and starch products Group",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Mechanical Engineering Equipment",
+    "NIC.Code": 28,
+    "NIC.Description": "Manufacture of machinery and equipment n.e.c.",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "KOLKATA",
+    "Product": "Wood Products",
+    "NIC.Code": 16,
+    "NIC.Description": "Manufacture of wood and products of wood and cork, except furniture; manufactur e of articles of straw and plaiting materials",
+    "DISTRICT_ID": "19_315"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "NADIA",
+    "Product": "Bell/Metal Utensils",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "19_320"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "NADIA",
+    "Product": "Powerloom",
+    "NIC.Code": 13,
+    "NIC.Description": "Manufacture of textiles",
+    "DISTRICT_ID": "19_320"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "PURULIA",
+    "Product": "Handtools",
+    "NIC.Code": 25,
+    "NIC.Description": "Manufacture of fabricated metal products, except machinery and equipment",
+    "DISTRICT_ID": "19_321"
+  },
+  {
+    "state_key": "WEST BENGAL",
+    "dist_key": "SOUTH 24 PARGANAS",
+    "Product": "Surgical Instruments",
+    "NIC.Code": 26,
+    "NIC.Description": "Manufacture of computer , electronic, and optical products",
+    "DISTRICT_ID": "19_304"
+  }
+]
